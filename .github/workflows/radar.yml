@@ -1,0 +1,38 @@
+name: Descarga SECOP II para el radar SOSING
+
+on:
+  schedule:
+    # 10:30 UTC = 5:30 a.m. Colombia, todos los días. El radar de Claude corre
+    # lunes y jueves a las 7:00 a.m. y lee el archivo que esto deja.
+    - cron: "30 10 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  descargar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Consultar SECOP II (datos.gov.co)
+        env:
+          RADAR_DIAS: "10"
+        run: python fetch_secop.py
+
+      - name: Guardar resultado en el repositorio
+        run: |
+          git config user.name "radar-sosing[bot]"
+          git config user.email "radar@sosing.local"
+          git add data/secop_ultimos.json data/meta.json
+          if git diff --cached --quiet; then
+            echo "Sin cambios"
+          else
+            git commit -m "SECOP II $(date -u +%Y-%m-%d) — $(python -c 'import json;print(json.load(open("data/meta.json"))["registros"])') procesos"
+            git push
+          fi
