@@ -1,8 +1,8 @@
 {
-  "corrida_utc": "2026-09-27T15:13:05+00:00",
-  "ventana_desde": "2026-09-17",
+  "corrida_utc": "2026-09-28T18:12:59+00:00",
+  "ventana_desde": "2026-09-18",
   "dias": 10,
-  "registros": 421,
-  "sha256": "31de693ce795bd72",
+  "registros": 370,
+  "sha256": "2d89d698582a63f9",
   "fuente": "https://www.datos.gov.co/resource/p6dx-8zbt.json"
 }
