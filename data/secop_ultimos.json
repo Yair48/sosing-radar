@@ -5187,27 +5187,6 @@
   }
  },
  {
-  "id_del_proceso": "CO1.REQ.11367254",
-  "referencia_del_proceso": "SA-MC-MA-010-2026 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta)",
-  "entidad": "ALCALDIA MUNICIPIO DE ARCABUCO",
-  "departamento_entidad": "Boyacá",
-  "ciudad_entidad": "No Definido",
-  "ordenentidad": "Nacional",
-  "nombre_del_procedimiento": "OPTIMIZACIÓN; MEJORAMIENTO Y CONSTRUCCIÓN DE TANQUE DE ALMACENAMIENTO AGUA POTABLE DEL ACUEDUCTO DENOMINADO CINCO VEREDAS EN EL MUNICIPIO DE ARCABUCO- BOYACÁ. (Manifestación de interés (Menor Cuantía)",
-  "descripci_n_del_procedimiento": "OPTIMIZACIÓN, MEJORAMIENTO Y CONSTRUCCIÓN DE TANQUE DE ALMACENAMIENTO AGUA POTABLE DEL ACUEDUCTO DENOMINADO CINCO VEREDAS EN EL MUNICIPIO DE ARCABUCO- BOYACÁ.",
-  "modalidad_de_contratacion": "Selección Abreviada de Menor Cuantía",
-  "estado_del_procedimiento": "Publicado",
-  "estado_de_apertura_del_proceso": "Abierto",
-  "precio_base": "473733610",
-  "fecha_de_publicacion_del": "2026-11-12T14:27:58.898",
-  "fecha_de_recepcion_de": "2026-11-16T09:00:00.000",
-  "codigo_principal_de_categoria": "UNSPECIFIED",
-  "tipo_de_contrato": "Obra",
-  "urlproceso": {
-   "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11220618"
-  }
- },
- {
   "id_del_proceso": "CO1.REQ.11365999",
   "referencia_del_proceso": "IP-029-2026",
   "entidad": "ALCALDÍA MUNICIPAL DE MADRID CUNDINAMARCA",
@@ -7296,7 +7275,7 @@
   "nombre_del_procedimiento": "PRESTAR EL SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO; INCLUIDO EL SUMINISTRO DE REPUESTOS Y MANO DE OBRA; PARA EL PARQUE AUTOMOTOR DE LA POLICÍA NACIONAL EN EL MUNICIPIO DE LOS PATIOS; NORTE D",
   "descripci_n_del_procedimiento": "PRESTAR EL SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO, INCLUIDO EL SUMINISTRO DE REPUESTOS Y MANO DE OBRA, PARA EL PARQUE AUTOMOTOR DE LA POLICÍA NACIONAL EN EL MUNICIPIO DE LOS PATIOS, NORTE DE SANTANDER, EN DESARROLLO DEL PLAN INTEGRAL DE SEGURIDAD Y CONVIVENCIA CIUDADANA MUNICIPAL",
   "modalidad_de_contratacion": "Selección Abreviada de Menor Cuantía",
-  "estado_del_procedimiento": "Publicado",
+  "estado_del_procedimiento": "Evaluación",
   "estado_de_apertura_del_proceso": "Abierto",
   "precio_base": "80000000",
   "fecha_de_publicacion_del": "2026-11-11T16:44:25.777",
@@ -9804,6 +9783,27 @@
   "tipo_de_contrato": "Suministros",
   "urlproceso": {
    "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11209636"
+  }
+ },
+ {
+  "id_del_proceso": "CO1.REQ.11356151",
+  "referencia_del_proceso": "SASI-006-2026 (Presentación de oferta)",
+  "entidad": "INDERTEN",
+  "departamento_entidad": "Cundinamarca",
+  "ciudad_entidad": "Tenjo",
+  "ordenentidad": "Territorial",
+  "nombre_del_procedimiento": "SUMINISTRO DE PARQUES INFANTILES MODULARES PREFABRICADOS INCLUYENDO TRANSPORTE DESCARGUE ENSAMBLE DE ACCESORIOS PRUEBAS DE SEGURIDAD Y ENTREGA EN CONDICIONES DE FUNCIONAMIENTO (Presentación de oferta)",
+  "descripci_n_del_procedimiento": "SUMINISTRO DE PARQUES INFANTILES MODULARES PREFABRICADOS, INCLUYENDO TRANSPORTE, DESCARGUE, ENSAMBLE DE ACCESORIOS, PRUEBAS DE SEGURIDAD Y ENTREGA EN CONDICIONES DE FUNCIONAMIENTO DESTINADOS A FORTALECER LOS ESPACIOS DE RECREACIÓN DEL MUNICIPIO DE TENJO CUNDINAMARCA  DE CONFORMIDAD CON LAS ESPECIFICACIONES TECNICAS ESTABLECIDAS POR EL INSTITUTO MUNICIPAL DE DEPORTES DE TENJO INDERTEN",
+  "modalidad_de_contratacion": "Selección abreviada subasta inversa",
+  "estado_del_procedimiento": "Evaluación",
+  "estado_de_apertura_del_proceso": "Abierto",
+  "precio_base": "150000000",
+  "fecha_de_publicacion_del": "2026-11-10T17:22:30.215",
+  "fecha_de_recepcion_de": "2026-11-13T11:00:00.000",
+  "codigo_principal_de_categoria": "UNSPECIFIED",
+  "tipo_de_contrato": "Suministros",
+  "urlproceso": {
+   "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11209475"
   }
  },
  {
@@ -12387,153 +12387,6 @@
   "tipo_de_contrato": "Prestación de servicios",
   "urlproceso": {
    "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11196941"
-  }
- },
- {
-  "id_del_proceso": "CO1.REQ.11319345",
-  "referencia_del_proceso": "PN METUN SA MC 007 2026 (Manifestación de interés (Menor Cuantía))",
-  "entidad": "METUN",
-  "departamento_entidad": "Boyacá",
-  "ciudad_entidad": "Tunja",
-  "ordenentidad": "Territorial",
-  "nombre_del_procedimiento": "MANTENIMIENTO DE VEHICULOS MULTIMARCAS METUN-DEBOY (Manifestación de interés (Menor Cuantía))",
-  "descripci_n_del_procedimiento": "MANTENIMIENTO PREVENTIVO Y CORRECTIVO A TODO COSTO DEL PARQUE AUTOMOTOR Y EQUIPO FLUVIAL MULTIMARCAS AL SERVICIO DE LA POLICÍA METROPOLITANA DE TUNJA, SUS UNIDADES ADSCRITAS POR ORDENACIÓN DEL GASTO Y VEHÍCULOS DE LA POLICÍA NACIONAL",
-  "modalidad_de_contratacion": "Selección Abreviada de Menor Cuantía",
-  "estado_del_procedimiento": "Evaluación",
-  "estado_de_apertura_del_proceso": "Abierto",
-  "precio_base": "3227174732",
-  "fecha_de_publicacion_del": "2026-11-07T21:18:20.582",
-  "fecha_de_recepcion_de": "2026-11-20T14:00:00.000",
-  "codigo_principal_de_categoria": "UNSPECIFIED",
-  "tipo_de_contrato": "Prestación de servicios",
-  "urlproceso": {
-   "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11194999"
-  }
- },
- {
-  "id_del_proceso": "CO1.REQ.11341158",
-  "referencia_del_proceso": "LP-007-2026",
-  "entidad": "ALCALDÍA MUNICIPAL DE CHAPARRAL",
-  "departamento_entidad": "Tolima",
-  "ciudad_entidad": "Chaparral",
-  "ordenentidad": "Territorial",
-  "nombre_del_procedimiento": "CONTRATAR LA CONSTRUCCIÓN; MANTENIMIENTO Y ADECUACIÓN DE SISTEMA DE ACUEDUCTOS RURALES EN EL MUNICIPIO DE CHAPARRAL TOLIMA",
-  "descripci_n_del_procedimiento": "CONTRATAR LA CONSTRUCCIÓN, MANTENIMIENTO Y ADECUACIÓN DE SISTEMA DE ACUEDUCTOS RURALES EN EL MUNICIPIO DE CHAPARRAL TOLIMA",
-  "modalidad_de_contratacion": "Licitación pública Obra Publica",
-  "estado_del_procedimiento": "Publicado",
-  "estado_de_apertura_del_proceso": "Abierto",
-  "precio_base": "509861870",
-  "fecha_de_publicacion_del": "2026-11-07T18:46:25.076",
-  "fecha_de_recepcion_de": "2026-12-02T08:00:00.000",
-  "codigo_principal_de_categoria": "UNSPECIFIED",
-  "tipo_de_contrato": "Obra",
-  "urlproceso": {
-   "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11195059"
-  }
- },
- {
-  "id_del_proceso": "CO1.REQ.11340289",
-  "referencia_del_proceso": "SAMC 026-2026 (Manifestación de interés (Menor Cuantía))",
-  "entidad": "ALCALDIA MUNICIPAL DE CHIA",
-  "departamento_entidad": "Cundinamarca",
-  "ciudad_entidad": "Chía",
-  "ordenentidad": "Territorial",
-  "nombre_del_procedimiento": "SUMINISTRO DE MEDICAMENTOS; INSUMOS Y EQUIPAMIENTO VETERINARIO PARA GARANTIZAR LA PRESTACIÓN DEL SERVICIO DE ASISTENCIA TÉCNICA VETERINARIA EN EL TERRITORIO MUNICIPAL (Manifestación de interés (Menor",
-  "descripci_n_del_procedimiento": "SUMINISTRO DE MEDICAMENTOS, INSUMOS Y EQUIPAMIENTO VETERINARIO PARA GARANTIZAR LA PRESTACIÓN DEL SERVICIO DE ASISTENCIA TÉCNICA VETERINARIA EN EL TERRITORIO MUNICIPAL",
-  "modalidad_de_contratacion": "Selección Abreviada de Menor Cuantía",
-  "estado_del_procedimiento": "Evaluación",
-  "estado_de_apertura_del_proceso": "Abierto",
-  "precio_base": "165845975",
-  "fecha_de_publicacion_del": "2026-11-07T17:16:43.179",
-  "fecha_de_recepcion_de": "2026-11-20T08:00:00.000",
-  "codigo_principal_de_categoria": "UNSPECIFIED",
-  "tipo_de_contrato": "Suministros",
-  "urlproceso": {
-   "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11194952"
-  }
- },
- {
-  "id_del_proceso": "CO1.REQ.11340083",
-  "referencia_del_proceso": "SAMC 017-2026  (Manifestación de interés (Menor Cuantía))",
-  "entidad": "ALCALDÍA LIBANO",
-  "departamento_entidad": "Tolima",
-  "ciudad_entidad": "Líbano",
-  "ordenentidad": "Territorial",
-  "nombre_del_procedimiento": "PROYECTO INTEGRAL DE AISLAMIENTO DE UN PREDIO MEDIANTE CERRAMIENTO  PERIMETRAL; ENRIQUECIMIENTO FORESTAL CON ESPECIES NATIVAS Y LA EJECUCIÓN DE  ACTIVIDADES DE MANTENIMIENTO EN LA VEREDA LA TIGRERA DE",
-  "descripci_n_del_procedimiento": "PROYECTO INTEGRAL DE AISLAMIENTO DE UN PREDIO MEDIANTE CERRAMIENTO PERIMETRAL, ENRIQUECIMIENTO FORESTAL CON ESPECIES NATIVAS Y LA EJECUCIÓN DE ACTIVIDADES DE MANTENIMIENTO EN LA VEREDA LA TIGRERA DEL MUNICIPIO DEL LÍBANO",
-  "modalidad_de_contratacion": "Selección Abreviada de Menor Cuantía",
-  "estado_del_procedimiento": "Evaluación",
-  "estado_de_apertura_del_proceso": "Abierto",
-  "precio_base": "125043150",
-  "fecha_de_publicacion_del": "2026-11-07T12:03:40.974",
-  "fecha_de_recepcion_de": "2026-11-20T10:00:00.000",
-  "codigo_principal_de_categoria": "UNSPECIFIED",
-  "tipo_de_contrato": "Prestación de servicios",
-  "urlproceso": {
-   "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11194285"
-  }
- },
- {
-  "id_del_proceso": "CO1.REQ.11339907",
-  "referencia_del_proceso": "FDLPA-LP-039-2026 (Presentación de oferta)",
-  "entidad": "ALCALDIA LOCAL DE PUENTE ARANDA-FONDO DE DESARROLLO LOCAL",
-  "departamento_entidad": "Distrito Capital de Bogotá",
-  "ciudad_entidad": "No Definido",
-  "ordenentidad": "Territorial",
-  "nombre_del_procedimiento": "LP EVENTOS PUENTE ARANDA 2026 (Presentación de oferta)",
-  "descripci_n_del_procedimiento": "Prestar los servicios logísticos para apoyar la planeación, organización y realización de las actividades y eventos culturales, artísticos y comunitarios que se desarrollen en la Localidad de Puente Aranda.",
-  "modalidad_de_contratacion": "Licitación pública",
-  "estado_del_procedimiento": "Publicado",
-  "estado_de_apertura_del_proceso": "Abierto",
-  "precio_base": "1305037332",
-  "fecha_de_publicacion_del": "2026-11-07T11:50:01.159",
-  "fecha_de_recepcion_de": "2026-11-17T07:30:00.000",
-  "codigo_principal_de_categoria": "UNSPECIFIED",
-  "tipo_de_contrato": "Prestación de servicios",
-  "urlproceso": {
-   "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11194382"
-  }
- },
- {
-  "id_del_proceso": "CO1.REQ.11339965",
-  "referencia_del_proceso": "200-10-01-06-0357-2026",
-  "entidad": "CORPORACION PARA EL DESARROLLO SOSTENIBLE DEL URABA",
-  "departamento_entidad": "Antioquia",
-  "ciudad_entidad": "Apartadó",
-  "ordenentidad": "Territorial",
-  "nombre_del_procedimiento": "Aunar esfuerzos técnicos; administrativos; financieros y de gestión para que LA ASOCIACIÓN; con el acompañamiento técnico de CORPOURABA; organice; gestione y lleve a cabo el Congreso Nacional Ambienta",
-  "descripci_n_del_procedimiento": "Aunar esfuerzos técnicos, administrativos, financieros y de gestión para que LA ASOCIACIÓN, con el acompañamiento técnico de CORPOURABA, organice, gestione y lleve a cabo el Congreso Nacional Ambiental en la jurisdicción de CORPOURABA, mediante acciones integrales de educación ambiental, participación comunitaria y enfoque de género, orientadas al fortalecimiento de procesos de gestión ambiental y a la gestión de recursos de cooperación pública y privada, así como a la recepción y administración",
-  "modalidad_de_contratacion": "Contratación Directa (con ofertas)",
-  "estado_del_procedimiento": "Seleccionado",
-  "estado_de_apertura_del_proceso": "Abierto",
-  "precio_base": "181176915",
-  "fecha_de_publicacion_del": "2026-11-07T11:45:43.961",
-  "fecha_de_recepcion_de": "2026-11-07T13:00:00.000",
-  "codigo_principal_de_categoria": "UNSPECIFIED",
-  "tipo_de_contrato": "Otro",
-  "urlproceso": {
-   "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11194088"
-  }
- },
- {
-  "id_del_proceso": "CO1.REQ.11339952",
-  "referencia_del_proceso": "CONV INT 003 DE 2026",
-  "entidad": "ALCALDÍA EL PITAL",
-  "departamento_entidad": "Huila",
-  "ciudad_entidad": "Pital",
-  "ordenentidad": "Territorial",
-  "nombre_del_procedimiento": "ALCANTARILLADO MUNICIPIO DE EL PITAL",
-  "descripci_n_del_procedimiento": "AUNAR ESFUERZOS ADMINISTRATIVOS, FINANCIEROS, TÉCNICOS Y PRESUPUESTALES PARA LA EJECUCIÓN DE LOS SIGUIENTES PLANES DE INVERSIÓN: CONSTRUCCIÓN Y REPOSICIÓN DEL SISTEMA DE ALCANTARILLADO SANITARIO Y OPTIMIZACIÓN DE REDES DE DISTRIBUCIÓN DE AGUA POTABLE EN LA ZONA URBANA DEL MUNICIPIO DE EL PITAL DEPARTAMENTO DEL HUILA, EN CUMPLIMIENTO AL PLAN DE DESARROLLO UNIDOS SI PODEMOS 2024 2027",
-  "modalidad_de_contratacion": "Contratación Directa (con ofertas)",
-  "estado_del_procedimiento": "Seleccionado",
-  "estado_de_apertura_del_proceso": "Abierto",
-  "precio_base": "613285871",
-  "fecha_de_publicacion_del": "2026-11-07T11:19:52.280",
-  "fecha_de_recepcion_de": "2026-11-10T17:00:00.000",
-  "codigo_principal_de_categoria": "UNSPECIFIED",
-  "tipo_de_contrato": "Otro",
-  "urlproceso": {
-   "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11194258"
   }
  }
 ]
