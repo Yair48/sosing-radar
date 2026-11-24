@@ -1,0 +1,281 @@
+{
+ "descripcion": "Conteo diario de procesos del puente SECOP II (ventana de 10 días), tomado de los commits del propio repositorio entre 2026-09-18 y 2026-11-23. 67 días, 68 corridas (el 2026-09-18 hubo dos). Hora de la corrida en UTC.",
+ "dias": 10,
+ "republicaciones": [
+  "2026-11-15T07:05:40+00:00"
+ ],
+ "corridas": [
+  {
+   "corrida_utc": "2026-09-18T03:55:00+00:00",
+   "registros": 427
+  },
+  {
+   "corrida_utc": "2026-09-18T14:34:00+00:00",
+   "registros": 427
+  },
+  {
+   "corrida_utc": "2026-09-19T13:57:00+00:00",
+   "registros": 381
+  },
+  {
+   "corrida_utc": "2026-09-20T14:17:00+00:00",
+   "registros": 369
+  },
+  {
+   "corrida_utc": "2026-09-21T16:31:00+00:00",
+   "registros": 390
+  },
+  {
+   "corrida_utc": "2026-09-22T15:05:00+00:00",
+   "registros": 394
+  },
+  {
+   "corrida_utc": "2026-09-23T15:08:00+00:00",
+   "registros": 406
+  },
+  {
+   "corrida_utc": "2026-09-24T15:20:00+00:00",
+   "registros": 465
+  },
+  {
+   "corrida_utc": "2026-09-25T15:22:00+00:00",
+   "registros": 430
+  },
+  {
+   "corrida_utc": "2026-09-26T14:37:00+00:00",
+   "registros": 466
+  },
+  {
+   "corrida_utc": "2026-09-27T15:13:00+00:00",
+   "registros": 421
+  },
+  {
+   "corrida_utc": "2026-09-28T18:12:00+00:00",
+   "registros": 370
+  },
+  {
+   "corrida_utc": "2026-09-29T16:34:00+00:00",
+   "registros": 403
+  },
+  {
+   "corrida_utc": "2026-09-30T16:28:00+00:00",
+   "registros": 397
+  },
+  {
+   "corrida_utc": "2026-10-01T17:05:00+00:00",
+   "registros": 283
+  },
+  {
+   "corrida_utc": "2026-10-02T16:19:00+00:00",
+   "registros": 416
+  },
+  {
+   "corrida_utc": "2026-10-03T14:46:00+00:00",
+   "registros": 409
+  },
+  {
+   "corrida_utc": "2026-10-04T15:26:00+00:00",
+   "registros": 406
+  },
+  {
+   "corrida_utc": "2026-10-05T19:20:00+00:00",
+   "registros": 366
+  },
+  {
+   "corrida_utc": "2026-10-06T16:52:00+00:00",
+   "registros": 451
+  },
+  {
+   "corrida_utc": "2026-10-07T17:29:00+00:00",
+   "registros": 453
+  },
+  {
+   "corrida_utc": "2026-10-08T17:28:00+00:00",
+   "registros": 518
+  },
+  {
+   "corrida_utc": "2026-10-09T17:06:00+00:00",
+   "registros": 569
+  },
+  {
+   "corrida_utc": "2026-10-10T15:55:00+00:00",
+   "registros": 496
+  },
+  {
+   "corrida_utc": "2026-10-11T16:22:00+00:00",
+   "registros": 468
+  },
+  {
+   "corrida_utc": "2026-10-12T19:54:00+00:00",
+   "registros": 400
+  },
+  {
+   "corrida_utc": "2026-10-13T17:41:00+00:00",
+   "registros": 467
+  },
+  {
+   "corrida_utc": "2026-10-14T15:18:00+00:00",
+   "registros": 467
+  },
+  {
+   "corrida_utc": "2026-10-15T15:10:00+00:00",
+   "registros": 377
+  },
+  {
+   "corrida_utc": "2026-10-16T14:57:00+00:00",
+   "registros": 468
+  },
+  {
+   "corrida_utc": "2026-10-17T13:49:00+00:00",
+   "registros": 507
+  },
+  {
+   "corrida_utc": "2026-10-18T14:04:00+00:00",
+   "registros": 437
+  },
+  {
+   "corrida_utc": "2026-10-19T17:03:00+00:00",
+   "registros": 431
+  },
+  {
+   "corrida_utc": "2026-10-20T15:14:00+00:00",
+   "registros": 429
+  },
+  {
+   "corrida_utc": "2026-10-21T15:27:00+00:00",
+   "registros": 415
+  },
+  {
+   "corrida_utc": "2026-10-22T15:26:00+00:00",
+   "registros": 508
+  },
+  {
+   "corrida_utc": "2026-10-23T15:18:00+00:00",
+   "registros": 378
+  },
+  {
+   "corrida_utc": "2026-10-24T14:03:00+00:00",
+   "registros": 534
+  },
+  {
+   "corrida_utc": "2026-10-25T14:28:00+00:00",
+   "registros": 486
+  },
+  {
+   "corrida_utc": "2026-10-26T16:50:00+00:00",
+   "registros": 434
+  },
+  {
+   "corrida_utc": "2026-10-27T15:56:00+00:00",
+   "registros": 501
+  },
+  {
+   "corrida_utc": "2026-10-28T16:45:00+00:00",
+   "registros": 435
+  },
+  {
+   "corrida_utc": "2026-10-29T17:00:00+00:00",
+   "registros": 527
+  },
+  {
+   "corrida_utc": "2026-10-30T16:45:00+00:00",
+   "registros": 530
+  },
+  {
+   "corrida_utc": "2026-10-31T15:48:00+00:00",
+   "registros": 519
+  },
+  {
+   "corrida_utc": "2026-11-01T16:52:00+00:00",
+   "registros": 510
+  },
+  {
+   "corrida_utc": "2026-11-02T20:27:00+00:00",
+   "registros": 572
+  },
+  {
+   "corrida_utc": "2026-11-03T17:57:00+00:00",
+   "registros": 573
+  },
+  {
+   "corrida_utc": "2026-11-04T18:08:00+00:00",
+   "registros": 571
+  },
+  {
+   "corrida_utc": "2026-11-05T18:09:00+00:00",
+   "registros": 488
+  },
+  {
+   "corrida_utc": "2026-11-06T17:36:00+00:00",
+   "registros": 522
+  },
+  {
+   "corrida_utc": "2026-11-07T16:33:00+00:00",
+   "registros": 565
+  },
+  {
+   "corrida_utc": "2026-11-08T16:44:00+00:00",
+   "registros": 528
+  },
+  {
+   "corrida_utc": "2026-11-09T20:54:00+00:00",
+   "registros": 490
+  },
+  {
+   "corrida_utc": "2026-11-10T18:02:00+00:00",
+   "registros": 528
+  },
+  {
+   "corrida_utc": "2026-11-11T17:57:00+00:00",
+   "registros": 532
+  },
+  {
+   "corrida_utc": "2026-11-12T18:29:00+00:00",
+   "registros": 570
+  },
+  {
+   "corrida_utc": "2026-11-13T17:56:00+00:00",
+   "registros": 562
+  },
+  {
+   "corrida_utc": "2026-11-14T16:39:00+00:00",
+   "registros": 574
+  },
+  {
+   "corrida_utc": "2026-11-15T17:19:00+00:00",
+   "registros": 0
+  },
+  {
+   "corrida_utc": "2026-11-16T20:37:00+00:00",
+   "registros": 668
+  },
+  {
+   "corrida_utc": "2026-11-17T19:15:00+00:00",
+   "registros": 597
+  },
+  {
+   "corrida_utc": "2026-11-18T18:56:00+00:00",
+   "registros": 590
+  },
+  {
+   "corrida_utc": "2026-11-19T19:04:00+00:00",
+   "registros": 677
+  },
+  {
+   "corrida_utc": "2026-11-20T18:41:00+00:00",
+   "registros": 615
+  },
+  {
+   "corrida_utc": "2026-11-21T17:42:00+00:00",
+   "registros": 672
+  },
+  {
+   "corrida_utc": "2026-11-22T17:56:00+00:00",
+   "registros": 587
+  },
+  {
+   "corrida_utc": "2026-11-23T22:07:00+00:00",
+   "registros": 620
+  }
+ ]
+}
