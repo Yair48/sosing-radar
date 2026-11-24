@@ -6,13 +6,29 @@ on:
     # lunes y jueves a las 7:00 a.m. y lee el archivo que esto deja.
     - cron: "30 10 * * *"
   workflow_dispatch:
+    # Reproceso manual de una ventana (ver README, "Confiabilidad de la ingesta").
+    inputs:
+      dias:
+        description: "Tamaño de la ventana en días"
+        required: false
+        default: "10"
+      hasta:
+        description: "Fecha final AAAA-MM-DD (vacío = hoy)"
+        required: false
+        default: ""
 
-permissions:
-  contents: write
+# Dos corridas a la vez se pisarían el commit de data/.
+concurrency:
+  group: radar-secop
+  cancel-in-progress: false
+
+permissions: {}
 
 jobs:
   descargar:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
 
@@ -21,18 +37,51 @@ jobs:
           python-version: "3.12"
 
       - name: Consultar SECOP II (datos.gov.co)
+        # Sale con 0 aunque la corrida sea FALLIDA: así el paso siguiente guarda
+        # la auditoría. Una FALLIDA nunca pisa data/secop_ultimos.json.
         env:
-          RADAR_DIAS: "10"
+          RADAR_DIAS: ${{ inputs.dias || '10' }}
+          RADAR_HASTA: ${{ inputs.hasta || '' }}
+          SOCRATA_APP_TOKEN: ${{ secrets.SOCRATA_APP_TOKEN }}
         run: python fetch_secop.py
 
-      - name: Guardar resultado en el repositorio
+      - name: Guardar resultado y auditoría en el repositorio
+        if: always()
         run: |
           git config user.name "radar-sosing[bot]"
           git config user.email "radar@sosing.local"
-          git add data/secop_ultimos.json data/meta.json
+          # La auditoría va siempre; secop_ultimos/meta solo cambian si se promovió.
+          for f in data/ejecuciones.jsonl data/ultima_ejecucion.json \
+                   data/secop_ultimos.json data/meta.json; do
+            if [ -e "$f" ]; then git add "$f"; fi
+          done
           if git diff --cached --quiet; then
             echo "Sin cambios"
           else
-            git commit -m "SECOP II $(date -u +%Y-%m-%d) — $(python -c 'import json;print(json.load(open("data/meta.json"))["registros"])') procesos"
+            resumen=$(python -c 'import json;u=json.load(open("data/ultima_ejecucion.json"));n=u["registros"];print("?" if n is None else n, "procesos —", u["estado"])')
+            git commit -m "SECOP II $(date -u +%Y-%m-%d) — ${resumen}"
             git push
           fi
+
+      - name: Verificar estado de la corrida
+        # Falla el job (y GitHub avisa por correo) si la corrida fue FALLIDA.
+        if: always()
+        run: |
+          python - <<'PY'
+          import json, sys
+          try:
+              u = json.load(open("data/ultima_ejecucion.json", encoding="utf-8"))
+          except Exception as e:
+              print(f"::error::No hay data/ultima_ejecucion.json: {e}")
+              sys.exit(1)
+          for c in u["controles"]:
+              if c["resultado"] not in ("OK", "OMITIDO"):
+                  print(f"[{c['resultado']}] {c['nombre']}: {c['detalle']}")
+          if u["estado"] == "FALLIDA":
+              print(f"::error::Corrida FALLIDA ({u.get('error') or 'ver controles'}). "
+                    f"Se conserva el último resultado válido ({u.get('ultimo_valido_utc')}).")
+              sys.exit(1)
+          if u["estado"] == "DEGRADADA":
+              print("::warning::Corrida DEGRADADA: publicada con advertencias.")
+          print(f"Estado: {u['estado']}")
+          PY
