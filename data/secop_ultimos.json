@@ -1,5 +1,215 @@
 [
  {
+  "id_del_proceso": "CO1.REQ.11410180",
+  "referencia_del_proceso": "FDLE-CMA-1359-2026 (Presentación de oferta)",
+  "entidad": "ALCALDIA LOCAL DE ENGATIVÁ",
+  "departamento_entidad": "Distrito Capital de Bogotá",
+  "ciudad_entidad": "Bogotá",
+  "ordenentidad": "Territorial",
+  "nombre_del_procedimiento": "REALIZAR LA INTERVENTORIA FINANCIERA; JURIDICA; AMBIENTAL; SOCIAL Y DE SEGURIDAD Y SALUD EN EL TRABAJO; DEL CONTRATO QUE TIENE COMO OBJETO:  REALIZAR EL MEJORAMIENTO; MANTENIMIENTO Y/O DOTACIÓN DE LOS",
+  "descripci_n_del_procedimiento": "REALIZAR LA INTERVENTORIA FINANCIERA, JURIDICA, AMBIENTAL, SOCIAL Y DE SEGURIDAD Y SALUD EN EL TRABAJO, DEL CONTRATO QUE TIENE COMO OBJETO:  REALIZAR EL MEJORAMIENTO, MANTENIMIENTO Y/O DOTACIÓN DE LOS PARQUES DE LA RED DE PROXIMIDAD EN LA LOCALIDAD DE ENGATIVÁ, BOGOTÁ, D.C. A TRAVÉS DEL SISTEMA DE PRECIOS UNITARIOS FIJOS Y A MONTO AGOTABLE .",
+  "modalidad_de_contratacion": "Concurso de méritos abierto",
+  "estado_del_procedimiento": "Publicado",
+  "estado_de_apertura_del_proceso": "Abierto",
+  "precio_base": "183841496",
+  "fecha_de_publicacion_del": "2026-11-23T00:00:27.354",
+  "fecha_de_recepcion_de": "2026-11-27T08:00:00.000",
+  "codigo_principal_de_categoria": "UNSPECIFIED",
+  "tipo_de_contrato": "Interventoría",
+  "urlproceso": {
+   "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11263465"
+  }
+ },
+ {
+  "id_del_proceso": "CO1.REQ.11410432",
+  "referencia_del_proceso": "MC-027-2026",
+  "entidad": "MUNICIPIO DE TERUEL",
+  "departamento_entidad": "Huila",
+  "ciudad_entidad": "Teruel",
+  "ordenentidad": "Territorial",
+  "nombre_del_procedimiento": "CONTRATO DE PRESTACIÓN DE SERVICIOS INTEGRALES DESTINADOS A GARANTIZAR LA PROTECCIÓN;  BIENESTAR Y ATENCIÓN DIGNA DE LA POBLACIÓN ADULTA MAYOR EN SITUACIÓN DE VULNERABILIDAD Y  RIESGO SOCIAL EN EL MUN",
+  "descripci_n_del_procedimiento": "CONTRATO DE PRESTACIÓN DE SERVICIOS INTEGRALES DESTINADOS A GARANTIZAR LA PROTECCIÓN, \nBIENESTAR Y ATENCIÓN DIGNA DE LA POBLACIÓN ADULTA MAYOR EN SITUACIÓN DE VULNERABILIDAD Y \nRIESGO SOCIAL EN EL MUNICIPIO DE TERUEL, HUILA",
+  "modalidad_de_contratacion": "Mínima cuantía",
+  "estado_del_procedimiento": "Publicado",
+  "estado_de_apertura_del_proceso": "Abierto",
+  "precio_base": "33000000",
+  "fecha_de_publicacion_del": "2026-11-22T22:18:42.479",
+  "fecha_de_recepcion_de": "2026-11-26T10:00:00.000",
+  "codigo_principal_de_categoria": "UNSPECIFIED",
+  "tipo_de_contrato": "Prestación de servicios",
+  "urlproceso": {
+   "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11263589"
+  }
+ },
+ {
+  "id_del_proceso": "CO1.REQ.11410360",
+  "referencia_del_proceso": "CM-002-2026 (Presentación de oferta)",
+  "entidad": "ALCALDIA MUNICIPAL TAUSA",
+  "departamento_entidad": "Cundinamarca",
+  "ciudad_entidad": "Tausa",
+  "ordenentidad": "Territorial",
+  "nombre_del_procedimiento": "ELABORACIÓN DE ESTUDIOS Y DISEÑOS PARA LA CONSTRUCCIÓN DE LAS CUBIERTAS DE LA ESCUELA SAN ANTONIO  Y  IED SAN ANTONIO SEDE PARAMO BAJO  DEL MUNICIPIO DE TAUSA CUNDINAMARCA (Presentación de oferta)",
+  "descripci_n_del_procedimiento": "ELABORACIÓN DE ESTUDIOS Y DISEÑOS PARA LA CONSTRUCCIÓN DE LAS CUBIERTAS DE LA ESCUELA SAN ANTONIO  Y  IED SAN ANTONIO SEDE PARAMO BAJO  DEL MUNICIPIO DE TAUSA CUNDINAMARCA",
+  "modalidad_de_contratacion": "Concurso de méritos abierto",
+  "estado_del_procedimiento": "Publicado",
+  "estado_de_apertura_del_proceso": "Abierto",
+  "precio_base": "97080000",
+  "fecha_de_publicacion_del": "2026-11-22T21:03:24.148",
+  "fecha_de_recepcion_de": "2026-11-25T17:00:00.000",
+  "codigo_principal_de_categoria": "UNSPECIFIED",
+  "tipo_de_contrato": "Consultoría",
+  "urlproceso": {
+   "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11263569"
+  }
+ },
+ {
+  "id_del_proceso": "CO1.REQ.11410148",
+  "referencia_del_proceso": "046-CMNC-2026",
+  "entidad": "MUNICIPIO DE BELEN DE LOS ANDAQUIES",
+  "departamento_entidad": "Caquetá",
+  "ciudad_entidad": "Belén De Los Andaquies",
+  "ordenentidad": "Territorial",
+  "nombre_del_procedimiento": "PIINTURAS CIC",
+  "descripci_n_del_procedimiento": "SUMINISTRO DE PINTURAS INSUMOS HERRAMIENTAS Y MATERIALES DE FERRETERIA REQUERIDOS PARA LA PINTURA DEMARCACION Y ADECUACION DE LA PLACA DEPORTIVA Y GRADERÍA DEL CENTRO DE INTEGRACION CIUDADANA CIC DEL MUNICIPIO DE BELEN DE LOS ANDAQUIES CAQUETA.",
+  "modalidad_de_contratacion": "Mínima cuantía",
+  "estado_del_procedimiento": "Publicado",
+  "estado_de_apertura_del_proceso": "Abierto",
+  "precio_base": "38155980",
+  "fecha_de_publicacion_del": "2026-11-22T20:48:36.669",
+  "fecha_de_recepcion_de": "2026-11-25T08:00:00.000",
+  "codigo_principal_de_categoria": "UNSPECIFIED",
+  "tipo_de_contrato": "Suministros",
+  "urlproceso": {
+   "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11263284"
+  }
+ },
+ {
+  "id_del_proceso": "CO1.REQ.11409784",
+  "referencia_del_proceso": "SAMC-021-2026",
+  "entidad": "MUNICIPIO DE EL PAUJIL",
+  "departamento_entidad": "Caquetá",
+  "ciudad_entidad": "El Paujil",
+  "ordenentidad": "Territorial",
+  "nombre_del_procedimiento": "MEJORAMIENTO DE LA INFRAESTRUCTURA DE DRENAJE PLUVIAL Y MANEJO DE AGUAS RESIDUALES; ORIENTADO A OPTIMIZAR LAS CONDICIONES DE RECOLECCIÓN; CONDUCCIÓN Y EVACUACIÓN DE AGUAS; EN LA INSPECCIÓN DE VERSALLE",
+  "descripci_n_del_procedimiento": "MEJORAMIENTO DE LA INFRAESTRUCTURA DE DRENAJE PLUVIAL Y MANEJO DE AGUAS RESIDUALES, ORIENTADO A OPTIMIZAR LAS CONDICIONES DE RECOLECCIÓN, CONDUCCIÓN Y EVACUACIÓN DE AGUAS, EN LA INSPECCIÓN DE VERSALLES Y EL ÁREA URBANA DEL MUNICIPIO DE EL PAUJIL, DEPARTAMENTO DEL CAQUETA",
+  "modalidad_de_contratacion": "Selección Abreviada de Menor Cuantía",
+  "estado_del_procedimiento": "Publicado",
+  "estado_de_apertura_del_proceso": "Abierto",
+  "precio_base": "190594826",
+  "fecha_de_publicacion_del": "2026-11-22T20:25:24.085",
+  "fecha_de_recepcion_de": "2026-12-10T08:00:00.000",
+  "codigo_principal_de_categoria": "UNSPECIFIED",
+  "tipo_de_contrato": "Obra",
+  "urlproceso": {
+   "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11263639"
+  }
+ },
+ {
+  "id_del_proceso": "CO1.REQ.11410608",
+  "referencia_del_proceso": "SUBASTA INVERSA -N° 006  DE 2026",
+  "entidad": "ALCALDIA MUNICIPAL DE PAUNA",
+  "departamento_entidad": "Boyacá",
+  "ciudad_entidad": "Pauna",
+  "ordenentidad": "Territorial",
+  "nombre_del_procedimiento": "COMPRAVENTA DE UNA (1) MOTOCICLETA UNIFORMADA PARA DOTAR EL PARQUE AUTOMOTOR DE LA POLICÍA NACIONAL DEL MUNICIPIO DE PAUNA; CON EL FIN DE FORTALECER LA SEGURIDAD Y CONVIVENCIA CIUDADANA",
+  "descripci_n_del_procedimiento": "COMPRAVENTA DE UNA (1) MOTOCICLETA UNIFORMADA PARA DOTAR EL PARQUE AUTOMOTOR DE LA POLICÍA NACIONAL DEL MUNICIPIO DE PAUNA, CON EL FIN DE FORTALECER LA SEGURIDAD Y CONVIVENCIA CIUDADANA",
+  "modalidad_de_contratacion": "Selección abreviada subasta inversa",
+  "estado_del_procedimiento": "Publicado",
+  "estado_de_apertura_del_proceso": "Abierto",
+  "precio_base": "75850000",
+  "fecha_de_publicacion_del": "2026-11-22T20:24:57.529",
+  "fecha_de_recepcion_de": "2026-12-03T18:00:00.000",
+  "codigo_principal_de_categoria": "UNSPECIFIED",
+  "tipo_de_contrato": "Compraventa",
+  "urlproceso": {
+   "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11263437"
+  }
+ },
+ {
+  "id_del_proceso": "CO1.REQ.11410213",
+  "referencia_del_proceso": "MC-032-2026",
+  "entidad": "CORPOCALDAS.",
+  "departamento_entidad": "Caldas",
+  "ciudad_entidad": "No Definido",
+  "ordenentidad": "Nacional",
+  "nombre_del_procedimiento": "Compra; servicio de recarga y mantenimiento de extintores de diferentes tamaños; gramajes y galones y elementos complementarios; ubicados en las diferentes sedes y parque automotor de la Corporación A",
+  "descripci_n_del_procedimiento": "Compra, servicio de recarga y mantenimiento de extintores de diferentes tamaños, gramajes y\ngalones y elementos complementarios, ubicados en las diferentes sedes y parque automotor de la\nCorporación Autónoma Regional de Caldas, por el sistema de monto agotable.",
+  "modalidad_de_contratacion": "Mínima cuantía",
+  "estado_del_procedimiento": "Publicado",
+  "estado_de_apertura_del_proceso": "Abierto",
+  "precio_base": "6112000",
+  "fecha_de_publicacion_del": "2026-11-22T19:03:35.465",
+  "fecha_de_recepcion_de": "2026-11-26T19:00:00.000",
+  "codigo_principal_de_categoria": "UNSPECIFIED",
+  "tipo_de_contrato": "Prestación de servicios",
+  "urlproceso": {
+   "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11263422"
+  }
+ },
+ {
+  "id_del_proceso": "CO1.REQ.11404007",
+  "referencia_del_proceso": "MNDPCCMCPS0105-2026",
+  "entidad": "MUNICIPIO DE NEIVA",
+  "departamento_entidad": "Huila",
+  "ciudad_entidad": "Neiva",
+  "ordenentidad": "Territorial",
+  "nombre_del_procedimiento": "SUMINISTRO DE ELEMENTOS Y SERVICIOS PARA REALIZAR ACTIVIDADES RECREATIVAS; DEPORTIVAS; ARTÍSTICAS Y COMUNITARIAS EN EL MARCO DEL DESARROLLO DEL PROYECTO PARTICIPATIVO DENOMINADO FORTALECIMIENTO Y DOT",
+  "descripci_n_del_procedimiento": "SUMINISTRO DE ELEMENTOS Y SERVICIOS PARA REALIZAR ACTIVIDADES RECREATIVAS, DEPORTIVAS, ARTÍSTICAS Y COMUNITARIAS EN EL MARCO DEL DESARROLLO DEL PROYECTO PARTICIPATIVO DENOMINADO FORTALECIMIENTO Y DOTACIÓN PARA EL DESARROLLO DE LA SEMANA CULTURAL, DEPORTIVA, AMBIENTAL Y DE INCLUSIÓN DE LA COMUNA 10",
+  "modalidad_de_contratacion": "Mínima cuantía",
+  "estado_del_procedimiento": "Publicado",
+  "estado_de_apertura_del_proceso": "Abierto",
+  "precio_base": "49734300",
+  "fecha_de_publicacion_del": "2026-11-22T18:32:55.220",
+  "fecha_de_recepcion_de": "2026-11-25T10:00:00.000",
+  "codigo_principal_de_categoria": "UNSPECIFIED",
+  "tipo_de_contrato": "Prestación de servicios",
+  "urlproceso": {
+   "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11263608"
+  }
+ },
+ {
+  "id_del_proceso": "CO1.REQ.11409666",
+  "referencia_del_proceso": "SMC-008-2026",
+  "entidad": "INSTITUTO PARA LA EDUCACION FISICA LA RECREACION Y EL DEPORTE DE DUITAMA",
+  "departamento_entidad": "No Definido",
+  "ciudad_entidad": "No Definido",
+  "ordenentidad": "Territorial",
+  "nombre_del_procedimiento": "ADECUACION Y MANTENIMIENTO DE LOS BAÑOS Y LAS ZONAS COMUNES DEL PARQUE RECREACIONAL DEL NORTE DEL MUNICIPIO DE DUITAMA BOYACA",
+  "descripci_n_del_procedimiento": "ADECUACIÓN Y MANTENIMIENTO DE LAS ZONAS COMUNES DE LA PISCINA OLÍMPICA DEL MUNICIPIO DE DUITAMA, BOYACÁ",
+  "modalidad_de_contratacion": "Mínima cuantía",
+  "estado_del_procedimiento": "Publicado",
+  "estado_de_apertura_del_proceso": "Abierto",
+  "precio_base": "48600114",
+  "fecha_de_publicacion_del": "2026-11-22T18:14:24.475",
+  "fecha_de_recepcion_de": "2026-11-26T09:00:00.000",
+  "codigo_principal_de_categoria": "UNSPECIFIED",
+  "tipo_de_contrato": "Obra",
+  "urlproceso": {
+   "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11263601"
+  }
+ },
+ {
+  "id_del_proceso": "CO1.REQ.11401664",
+  "referencia_del_proceso": "MF-SAMC-005 DE 2026",
+  "entidad": "MUNICIPIO DE FIRAVITOBA",
+  "departamento_entidad": "Boyacá",
+  "ciudad_entidad": "Firavitoba",
+  "ordenentidad": "Territorial",
+  "nombre_del_procedimiento": "CONSTRUCCION SISTEMAS ALCANTARILLADOS; CALLE 9 ENTRE CARRERAS 5 Y 4; SECTOR SENDEROS CRA 3 A CALLE 5A Y BARRIO SAN PEDRO; MUNICIPIO DE FIRAVITOBA DEPARTAMENTO DE BOYACA",
+  "descripci_n_del_procedimiento": "CONSTRUCCION SISTEMAS ALCANTARILLADOS, CALLE 9 ENTRE CARRERAS 5 Y 4, SECTOR SENDEROS CRA 3 A CALLE 5A Y BARRIO SAN PEDRO, MUNICIPIO DE FIRAVITOBA DEPARTAMENTO DE BOYACA",
+  "modalidad_de_contratacion": "Selección Abreviada de Menor Cuantía",
+  "estado_del_procedimiento": "Publicado",
+  "estado_de_apertura_del_proceso": "Abierto",
+  "precio_base": "461425224",
+  "fecha_de_publicacion_del": "2026-11-22T18:07:17.293",
+  "fecha_de_recepcion_de": "2026-12-07T08:30:00.000",
+  "codigo_principal_de_categoria": "UNSPECIFIED",
+  "tipo_de_contrato": "Obra",
+  "urlproceso": {
+   "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11263062"
+  }
+ },
+ {
   "id_del_proceso": "CO1.REQ.11408504",
   "referencia_del_proceso": "022-SAMC-2026 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta)",
   "entidad": "MUNICIPIO DE LA MONTAÑITA CAQUETA",
@@ -2508,7 +2718,7 @@
   "nombre_del_procedimiento": "CONTRATAR LOS SERVICIOS DE CONSULTORÍA PARA LA ACTUALIZACIÓN DE LOS ESTUDIOS DETALLADOS Y EVALUACIÓN DE AMENAZA; VULNERABILIDAD Y RIESGO POR MOVIMIENTOS EN MASA DE LOS POLÍGONOS DETERMINADOS COMO BARR",
   "descripci_n_del_procedimiento": "CONTRATAR LOS SERVICIOS DE CONSULTORÍA PARA LA ACTUALIZACIÓN DE LOS ESTUDIOS DETALLADOS Y EVALUACIÓN DE AMENAZA, VULNERABILIDAD Y RIESGO POR MOVIMIENTOS EN MASA DE LOS POLÍGONOS DETERMINADOS COMO BARRIO LAS PALMAS Y EL SECTOR LAS LOMAS CON EL FIN DE REALIZAR LA VIABILIDAD DE DISTRIBUCIÓN DE SERVICIOS PÚBLICOS DOMICILIARIOS, DE CONFORMIDAD CON LA NORMATIVIDAD VIGENTE",
   "modalidad_de_contratacion": "Contratación Directa (con ofertas)",
-  "estado_del_procedimiento": "Abierto",
+  "estado_del_procedimiento": "Seleccionado",
   "estado_de_apertura_del_proceso": "Abierto",
   "precio_base": "300000000",
   "fecha_de_publicacion_del": "2026-11-20T11:23:31.822",
@@ -4853,7 +5063,7 @@
  {
   "id_del_proceso": "CO1.REQ.11397801",
   "referencia_del_proceso": "MINC 040-2026",
-  "entidad": "ALCALDIA MUNICIPAL DE LA UNION",
+  "entidad": "MUNICIPIO DE LA UNION ANTIOQUIA",
   "departamento_entidad": "Antioquia",
   "ciudad_entidad": "No Definido",
   "ordenentidad": "Territorial",
@@ -7137,6 +7347,27 @@
   "tipo_de_contrato": "Obra",
   "urlproceso": {
    "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11246613"
+  }
+ },
+ {
+  "id_del_proceso": "CO1.REQ.11392878",
+  "referencia_del_proceso": "SASINV1224-2026 (Presentación de oferta)",
+  "entidad": "CORPORACION AUTONOMA REGIONAL DE LA FRONTERA NORORIENTAL+",
+  "departamento_entidad": "Norte de Santander",
+  "ciudad_entidad": "Cúcuta",
+  "ordenentidad": "Corporación Autónoma",
+  "nombre_del_procedimiento": "SUMINISTRO DE MATERIAL PUBLICITARIO E INSTITUCIONAL (POP) PARA LA IMPLEMENTACIÓN DE ESTRATEGIAS DE DIVULGACIÓN; COMUNICACIÓN Y GESTIÓN CON LOS GRUPOS DE INTERÉS FORTALECIENDO LAS RELACIONES HUMANAS Y",
+  "descripci_n_del_procedimiento": "SUMINISTRO DE MATERIAL PUBLICITARIO E INSTITUCIONAL (POP) PARA LA IMPLEMENTACIÓN DE ESTRATEGIAS DE DIVULGACIÓN, COMUNICACIÓN Y GESTIÓN CON LOS GRUPOS DE INTERÉS FORTALECIENDO LAS RELACIONES HUMANAS Y LA CULTURA AMBIENTAL PARA CONSTRUIR UN TERRITORIO VERDE",
+  "modalidad_de_contratacion": "Selección abreviada subasta inversa",
+  "estado_del_procedimiento": "Evaluación",
+  "estado_de_apertura_del_proceso": "Abierto",
+  "precio_base": "200000000",
+  "fecha_de_publicacion_del": "2026-11-18T17:47:04.006",
+  "fecha_de_recepcion_de": "2026-11-20T17:00:00.000",
+  "codigo_principal_de_categoria": "UNSPECIFIED",
+  "tipo_de_contrato": "Suministros",
+  "urlproceso": {
+   "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11246077"
   }
  },
  {
@@ -10122,6 +10353,27 @@
   }
  },
  {
+  "id_del_proceso": "CO1.REQ.11385418",
+  "referencia_del_proceso": "MNSDRSASSM064-2026  (Presentación de oferta)",
+  "entidad": "MUNICIPIO DE NEIVA",
+  "departamento_entidad": "Huila",
+  "ciudad_entidad": "Neiva",
+  "ordenentidad": "Territorial",
+  "nombre_del_procedimiento": "SUMINISTRO DE IMPLEMENTACIÓN Y EQUIPAMIENTO DEPORTIVO CON DESTINO A LOS ORGANISMOS DEPORTIVOS BENEFICIARIOS DEL PROCESO DE CATEGORIZACIÓN Y CLASIFICACIÓN DEL MUNICIPIO DE NEIVA (Presentación de oferta",
+  "descripci_n_del_procedimiento": "SUMINISTRO DE IMPLEMENTACIÓN Y EQUIPAMIENTO DEPORTIVO CON DESTINO A LOS ORGANISMOS DEPORTIVOS BENEFICIARIOS DEL PROCESO DE CATEGORIZACIÓN Y CLASIFICACIÓN DEL MUNICIPIO DE NEIVA",
+  "modalidad_de_contratacion": "Selección abreviada subasta inversa",
+  "estado_del_procedimiento": "Evaluación",
+  "estado_de_apertura_del_proceso": "Abierto",
+  "precio_base": "128000000",
+  "fecha_de_publicacion_del": "2026-11-17T16:10:22.924",
+  "fecha_de_recepcion_de": "2026-11-20T17:00:00.000",
+  "codigo_principal_de_categoria": "UNSPECIFIED",
+  "tipo_de_contrato": "Suministros",
+  "urlproceso": {
+   "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11238645"
+  }
+ },
+ {
   "id_del_proceso": "CO1.REQ.11377351",
   "referencia_del_proceso": "PN MEBUC CD 010 2026",
   "entidad": "POLICIA METROPOLITANA DE BUCARAMANGA",
@@ -10938,132 +11190,6 @@
   "tipo_de_contrato": "Obra",
   "urlproceso": {
    "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11235207"
-  }
- },
- {
-  "id_del_proceso": "CO1.REQ.11377320",
-  "referencia_del_proceso": "SA-SI-004-2026",
-  "entidad": "INSTITUTO DEPARTAMENTAL DEL DEPORTE DE BOYACA",
-  "departamento_entidad": "Boyacá",
-  "ciudad_entidad": "Tunja",
-  "ordenentidad": "Territorial",
-  "nombre_del_procedimiento": "SA-SI-004-2026",
-  "descripci_n_del_procedimiento": "ADQUISICIÓN DE EQUIPAMIENTO DEPORTIVO PARA EL FORTALECIMIENTO Y \nADECUADO FUNCIONAMIENTO DEL COLISEO DE LA VILLA OLIMPICA DE INDEPORTES \nBOYACÁ",
-  "modalidad_de_contratacion": "Selección abreviada subasta inversa",
-  "estado_del_procedimiento": "Publicado",
-  "estado_de_apertura_del_proceso": "Abierto",
-  "precio_base": "361937417",
-  "fecha_de_publicacion_del": "2026-11-14T20:29:58.523",
-  "fecha_de_recepcion_de": "2026-11-27T17:30:00.000",
-  "codigo_principal_de_categoria": "UNSPECIFIED",
-  "tipo_de_contrato": "Compraventa",
-  "urlproceso": {
-   "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11231405"
-  }
- },
- {
-  "id_del_proceso": "CO1.REQ.11375320",
-  "referencia_del_proceso": "FDLUSA-SASI-012-2026",
-  "entidad": "ALCALDIA LOCAL DE USAQUEN",
-  "departamento_entidad": "Distrito Capital de Bogotá",
-  "ciudad_entidad": "Bogotá",
-  "ordenentidad": "Territorial",
-  "nombre_del_procedimiento": "ADQUIRIR Y SUMINISTRAR BIENES; EQUIPOS Y ELEMENTOS",
-  "descripci_n_del_procedimiento": "ADQUIRIR Y SUMINISTRAR BIENES, EQUIPOS Y ELEMENTOS, REALIZAR LAS ADECUACIONES E INSTALACIONES REQUERIDAS Y PRESTAR LOS SERVICIOS DE MANTENIMIENTO NECESARIOS PARA FORTALECER LAS CAPACIDADES TÉCNICAS, OPERATIVAS, ADMINISTRATIVAS Y CULTURALES DE LOS MEDIOS COMUNITARIOS, ORGANIZACIONES SOCIALES Y ESPACIOS COMUNITARIOS Y CULTURALES DE LA LOCALIDAD DE USAQUÉN, EN EL MARCO DE LOS PROYECTOS DE INVERSIÓN 2561, 2592 Y 2656 DEL PLAN DE DESARROLLO LOCAL USAQUÉN CAMINA SEGURA .",
-  "modalidad_de_contratacion": "Selección abreviada subasta inversa",
-  "estado_del_procedimiento": "Publicado",
-  "estado_de_apertura_del_proceso": "Abierto",
-  "precio_base": "443036401",
-  "fecha_de_publicacion_del": "2026-11-14T18:28:02.636",
-  "fecha_de_recepcion_de": "2026-12-04T15:00:00.000",
-  "codigo_principal_de_categoria": "UNSPECIFIED",
-  "tipo_de_contrato": "Compraventa",
-  "urlproceso": {
-   "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11231355"
-  }
- },
- {
-  "id_del_proceso": "CO1.REQ.11377611",
-  "referencia_del_proceso": "MG-SPI-CM-CI-001- 2026",
-  "entidad": "ALCALDIA MUNICIPIO DE GIGANTE HUILA",
-  "departamento_entidad": "Huila",
-  "ciudad_entidad": "Gigante",
-  "ordenentidad": "Territorial",
-  "nombre_del_procedimiento": "INTERVENTORÍA TÉCNICA; ADMINISTRATIVA; FINANCIERA; JURÍDICA CONTABLE Y AMBIENTAL AL CONVENIO DE OBRA",
-  "descripci_n_del_procedimiento": "INTERVENTORIA TECNICA, ADMINISTRATIVA, FINANCIERA, JURÍDICA CONTABLE Y AMBIENTAL AL CONVENIO DE OBRA CUYO OBJETO ES AUNAR ESFUERZOS PARA FINANCIAR Y EJECUTAR LA CONSTRUCCIÓN DEL ALCANTARILLADO Y SISTEMAS DE TRATAMIENTO DE AGUAS RESIDUALES DOMÉSTICAS EN EL CENTRO POBLADO RIOLORO - GIGANTE HUILA",
-  "modalidad_de_contratacion": "Concurso de méritos abierto",
-  "estado_del_procedimiento": "Publicado",
-  "estado_de_apertura_del_proceso": "Abierto",
-  "precio_base": "247478764",
-  "fecha_de_publicacion_del": "2026-11-14T17:22:13.628",
-  "fecha_de_recepcion_de": "2026-11-28T08:00:00.000",
-  "codigo_principal_de_categoria": "UNSPECIFIED",
-  "tipo_de_contrato": "Interventoría",
-  "urlproceso": {
-   "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11231139"
-  }
- },
- {
-  "id_del_proceso": "CO1.REQ.11377325",
-  "referencia_del_proceso": "CMA-004-2026 (Presentación de oferta)",
-  "entidad": "ALCALDIA MUNICIPIO DE SAN GIL - SANTANDER",
-  "departamento_entidad": "Santander",
-  "ciudad_entidad": "San Gil",
-  "ordenentidad": "Territorial",
-  "nombre_del_procedimiento": "INTERVENTORÍA INTEGRAL A LA PRESTACIÓN DEL SERVICIO DE ALUMBRADO PÚBLICO EN EL MUNICIPIO DE SAN GIL; SANTANDER (Presentación de oferta)",
-  "descripci_n_del_procedimiento": "INTERVENTORÍA INTEGRAL A LA PRESTACIÓN DEL SERVICIO DE ALUMBRADO PÚBLICO EN EL MUNICIPIO DE SAN GIL, SANTANDER",
-  "modalidad_de_contratacion": "Concurso de méritos abierto",
-  "estado_del_procedimiento": "Publicado",
-  "estado_de_apertura_del_proceso": "Abierto",
-  "precio_base": "221285753",
-  "fecha_de_publicacion_del": "2026-11-14T13:56:22.535",
-  "fecha_de_recepcion_de": "2026-11-23T08:00:00.000",
-  "codigo_principal_de_categoria": "UNSPECIFIED",
-  "tipo_de_contrato": "Interventoría",
-  "urlproceso": {
-   "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11230630"
-  }
- },
- {
-  "id_del_proceso": "CO1.REQ.11376874",
-  "referencia_del_proceso": "RSC-CP-006-2026",
-  "entidad": "RED SALUD CASANARE E.S.E. *",
-  "departamento_entidad": "Casanare",
-  "ciudad_entidad": "Yopal",
-  "ordenentidad": "Territorial",
-  "nombre_del_procedimiento": "AMBULANCIAS TAB Y CAMIONETAS",
-  "descripci_n_del_procedimiento": "ADQUISICIÓN DE SEIS (06) AMBULANCIAS TRANSPORTE ASISTENCIAL BÁSICO (TAB) Y DOS VEHÍCULOS DE TRANSPORTE EXTRAMURAL (VTE) QUE GARANTICEN EL FORTALECIMIENTO DEL PARQUE AUTOMOTOR DE RED SALUD E.S.E.",
-  "modalidad_de_contratacion": "Contratación régimen especial (con ofertas)",
-  "estado_del_procedimiento": "Publicado",
-  "estado_de_apertura_del_proceso": "Abierto",
-  "precio_base": "2531297512",
-  "fecha_de_publicacion_del": "2026-11-14T11:24:32.958",
-  "fecha_de_recepcion_de": "2026-11-30T17:00:00.000",
-  "codigo_principal_de_categoria": "UNSPECIFIED",
-  "tipo_de_contrato": "Compraventa",
-  "urlproceso": {
-   "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11230377"
-  }
- },
- {
-  "id_del_proceso": "CO1.REQ.11376934",
-  "referencia_del_proceso": "CI-197-2026",
-  "entidad": "MUNICIPIO DE ANZA",
-  "departamento_entidad": "Antioquia",
-  "ciudad_entidad": "Anza",
-  "ordenentidad": "Territorial",
-  "nombre_del_procedimiento": "CONTRATO INTEDMINISTRATIVO",
-  "descripci_n_del_procedimiento": "CONTRATO INTERADMINISTRATIVO DE MANDATO EN LA MODALIDAD DE ADMINISTRACIÓN DELEGADA DE RECURSOS PARA LA GERENCIA, ADMINISTRATIVA, TÉCNICA, JURÍDICA Y FINANCIERA DEL PROYECTO PARA LA FORMULACIÓN Y/O ACTUALIZACIÓN DEL PEC DE ACUEDUCTO Y ALCANTARILLADO, Y LA FORMULACIÓN Y ACOMPAÑAMIENTO PARA EL TRÁMITE Y OTORGAMIENTO DEL PERMISO DE VERTIMIENTOS DE LA PTAR LA SAPERA DEL MUNICIPIO DE ANZÁ, ANTIOQUIA",
-  "modalidad_de_contratacion": "Contratación Directa (con ofertas)",
-  "estado_del_procedimiento": "Seleccionado",
-  "estado_de_apertura_del_proceso": "Abierto",
-  "precio_base": "69830467",
-  "fecha_de_publicacion_del": "2026-11-14T10:31:06.820",
-  "fecha_de_recepcion_de": "2026-11-17T12:00:00.000",
-  "codigo_principal_de_categoria": "UNSPECIFIED",
-  "tipo_de_contrato": "Otro",
-  "urlproceso": {
-   "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11230538"
   }
  }
 ]
