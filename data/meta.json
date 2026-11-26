@@ -1,12 +1,12 @@
 {
-  "corrida_utc": "2026-11-25T20:01:16+00:00",
-  "ventana_desde": "2026-11-15",
+  "corrida_utc": "2026-11-26T19:43:56+00:00",
+  "ventana_desde": "2026-11-16",
   "dias": 10,
-  "registros": 533,
-  "sha256": "95c2f724ecb3ce05",
+  "registros": 675,
+  "sha256": "8b73c4aac916ec68",
   "fuente": "https://www.datos.gov.co/resource/p6dx-8zbt.json",
   "estado": "OK",
-  "ultimo_valido_utc": "2026-11-25T20:01:16+00:00",
+  "ultimo_valido_utc": "2026-11-26T19:43:56+00:00",
   "ventana_hasta": null,
   "sin_cambios": false,
   "controles": {
