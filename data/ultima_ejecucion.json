@@ -1,40 +1,40 @@
 {
-  "corrida_utc": "2026-11-27T19:33:25+00:00",
+  "corrida_utc": "2026-11-28T18:18:53+00:00",
   "disparo": "schedule",
   "estado": "OK",
   "promovido": true,
-  "sin_cambios": true,
-  "ultimo_valido_utc": "2026-11-27T19:33:25+00:00",
+  "sin_cambios": false,
+  "ultimo_valido_utc": "2026-11-28T18:18:53+00:00",
   "dias": 10,
   "reproceso": false,
-  "ventana_desde": "2026-11-17",
+  "ventana_desde": "2026-11-18",
   "ventana_hasta": null,
   "columnas": 60,
   "campos_faltantes": [],
-  "filas_crudas": 675,
+  "filas_crudas": 720,
   "paginas": 1,
-  "registros": 675,
-  "control": 3280,
+  "registros": 720,
+  "control": 3484,
   "paginacion_completa": true,
-  "sha256": "8b73c4aac916ec68",
-  "rows_updated_at": "2026-11-26T10:49:23+00:00",
+  "sha256": "4c3d681e7fcf5fe0",
+  "rows_updated_at": "2026-11-27T22:40:28+00:00",
   "view_last_modified": "2026-11-15T07:05:40+00:00",
   "firma_esquema": "a18368f1bf6cf002d8718fd1b9917baa817405a83b6915ed6e7678aa610228f9",
   "error": null,
   "peticiones": 3,
   "reintentos": 0,
   "tiempos": {
-    "metadatos_s": 5.23,
-    "control_s": 0.78,
-    "descarga_s": 9.23,
-    "total_s": 15.25
+    "metadatos_s": 0.7,
+    "control_s": 0.61,
+    "descarga_s": 1.05,
+    "total_s": 2.36
   },
   "controles": [
     {
       "nombre": "ejecucion_tardia",
-      "resultado": "NOTA",
-      "detalle": "corrió 9.1 h después del turno de 2026-11-27 10:30 UTC (umbral 8 h)",
-      "retraso_h": 9.06
+      "resultado": "OK",
+      "detalle": "retraso 7.8 h",
+      "retraso_h": 7.81
     },
     {
       "nombre": "conexion",
@@ -49,14 +49,14 @@
     {
       "nombre": "consulta_control",
       "resultado": "OK",
-      "detalle": "3280 procesos en la ventana sin términos",
-      "control": 3280
+      "detalle": "3484 procesos en la ventana sin términos",
+      "control": 3484
     },
     {
       "nombre": "frescura",
       "resultado": "OK",
-      "detalle": "filas actualizadas 2026-11-26 10:49 UTC; 1 día(s) hábil(es) de antigüedad",
-      "dias_habiles": 1
+      "detalle": "filas actualizadas 2026-11-27 22:40 UTC; 0 día(s) hábil(es) de antigüedad",
+      "dias_habiles": 0
     },
     {
       "nombre": "esquema",
@@ -71,10 +71,10 @@
     {
       "nombre": "volumen",
       "resultado": "OK",
-      "detalle": "675 registros; mediana 567.5, MAD 39.5, M=+1.84 (n=28)",
-      "m": 1.84,
-      "mediana": 567.5,
-      "mad": 39.5,
+      "detalle": "720 registros; mediana 570.5, MAD 42.5, M=+2.37 (n=28)",
+      "m": 2.37,
+      "mediana": 570.5,
+      "mad": 42.5,
       "n_base": 28
     }
   ]
